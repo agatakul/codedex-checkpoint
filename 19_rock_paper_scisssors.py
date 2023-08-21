@@ -2,7 +2,7 @@
 
 import random
 
-print('=====================================\n Rock Paper Scissors Lizard Spock\n=======================================')
+print('~ Rock Paper Scissors Lizard Spock ~')
 
 
 player = int(input('You choose: \n(1) “is for Rock ✊” \n(2) “is for Paper ✋”	\n(3) “is for Scissors ✌️” \n(4) “is for Lizard 🦎” \n(5) “is for Spock 🖖”\n'))
